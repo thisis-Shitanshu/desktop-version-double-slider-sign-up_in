@@ -7,6 +7,6 @@
         - Font-awesome
     
 ## Landing Page
-visit at, [Click here.]()
+visit at, [Click here.](https://thisis-Shitanshu.github.io/desktop-version-double-slider-sign-up_in/index.html)
 
 ![](./screenshot.jpg)
