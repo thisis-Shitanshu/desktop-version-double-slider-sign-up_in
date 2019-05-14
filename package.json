@@ -1,0 +1,15 @@
+{
+  "name": "double-slider",
+  "version": "1.0.0",
+  "description": "Double slider for sign up/in.",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "homepage": "https://thisis-Shitanshu.github.io/desktop-version-double-slider-sign-up_in",
+  "author": "Shitanshu",
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
